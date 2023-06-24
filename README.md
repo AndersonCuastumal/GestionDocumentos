@@ -33,22 +33,22 @@ Despues del paso 1 de instalación, se recomienda utilizar la guia "Instalacion.
 4. Copia las carpetas "frontpruebatecnica" y "pruebatecnica" en la carpeta raíz de Laragon, por ejemplo, la ruta del directorio puede ser: `C:\laragon\www`.
 5. Abre la terminal o consola de Laragon.
 6. Instala las dependencias del backend. Con la terminal de Laragon abierta, ejecuta los siguientes comandos:
-	$ cd pruebatecnica\
-  	$ composer install
-  	$ npm install
-Luego, cierra la terminal.
+	- cd pruebatecnica\
+  	- composer install
+  	- npm install
+	- Luego, cierra la terminal.
 7. Instala las dependencias del frontend. Con la terminal de Laragon abierta, ejecuta los siguientes comandos:
-	$ cd frontpruebatecnica\
-	$ npm install
-	$ npm install vue vue-router vue-axios @fortawesome/fontawesome-free axios bootstrap sweetalert2 jquery datatables.net js-cookie --save
-Luego, cierra la terminal.
+	- cd frontpruebatecnica\
+	- npm install
+	- npm install vue vue-router vue-axios @fortawesome/fontawesome-free axios bootstrap sweetalert2 jquery datatables.net js-cookie --save
+	- Luego, cierra la terminal.
 8. Lanza la aplicación frontend. Con la terminal de Laragon abierta, ejecuta el siguiente comando:
-	$ cd frontpruebatecnica\
-	$ npm run serve
-Esto mostrará un mensaje con la ruta de localhost donde se está ejecutando la aplicación web. Por ejemplo:
-App running at:
-- Local: http://localhost:8080/
-- Network: http://192.168.1.6:8080/
+	- cd frontpruebatecnica\
+	- npm run serve
+	- Esto mostrará un mensaje con la ruta de localhost donde se está ejecutando la aplicación web. Por ejemplo:
+	- App running at:
+		- Local: http://localhost:8080/
+		- Network: http://192.168.1.6:8080/
 9. Abre un navegador (Chrome, Firefox, etc.) y pega la siguiente ruta: "http://localhost:8080/"
 
 ## Consideraciones

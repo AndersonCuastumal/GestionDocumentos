@@ -191,7 +191,7 @@ class DocumentosController extends Controller
 
     public static function modificandoCodigo($maxNumber,$docCodigo){
       
-        $newDocCodigo=$docCodigo."-".$maxNumber;
+        $newDocCodigo=$docCodigo."-".($maxNumber+1);
         return $newDocCodigo;
     }
 

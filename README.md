@@ -3,6 +3,26 @@
 ## Descripción
 Es una aplicación web construida en Windows que se desarrolló con los frameworks Laravel y Vue.js. En el área de backend se ha utilizado el lenguaje de programación PHP y en el frontend se trabajó con JavaScript. Se desarrolló un CRUD de registro de documentos usando tecnología MVC y servicios web REST. La interfaz de usuario es funcional e interactiva.
 
+## Capturas de Pantalla
+
+![Inicio de sesion](/Imagenes_proyecto/Login.png)
+El email y contraseña son necesarios para acceder a los servicios de la aplicación.
+
+![Listado de documentos](/Imagenes_proyecto/Lista_documentos.png)
+Se listan por por paginación todos los documentos registrados en base de datos.
+
+![Crear nuevo documento](/Imagenes_proyecto/Registrar_nuevo_doc.png)
+Se crea un nuevo documento y cada documento tiene un unico codigo.
+
+![Editar documento](/Imagenes_proyecto/editar_documento.png)
+Edita las caracteristicas del documento y se genera un nuevo codigo unico.
+
+![Buscar documento](/Imagenes_proyecto/busqueda.png)
+Buscador permite filtrar mucho mas rapido y facil los documentos de interes.
+
+![Eliminar documento](/Imagenes_proyecto/eliminar_doc.png)
+Elimina de base de datos dicho documento.
+
 ### Características de interfaz de usuario:
 - Login de usuario.
 - Logout de usuario.
@@ -58,3 +78,8 @@ Despues del paso 1 de instalación, se recomienda utilizar la guia "Instalacion.
 ## Credenciales de inicio de sesión
 - Email: admin@email.com
 - Contraseña: admin
+
+## Contacto
+
+Si tienes alguna pregunta o comentario, puedes contactarme a través de [correo electrónico](ander.ch95@gmail.com) o [LinkedIn](https://www.linkedin.com/in/andersoncuastumal/).
+

@@ -5,23 +5,32 @@ Es una aplicación web construida en Windows que se desarrolló con los framewor
 
 ## Capturas de Pantalla
 
+### Inicio de sesión
+Esta captura de pantalla muestra la página de inicio de sesión de la aplicación. Se requiere ingresar un correo electrónico y una contraseña válidos para acceder a los servicios.
 ![Login](/Imagenes_proyecto/Login.png)
-El email y contraseña son necesarios para acceder a los servicios de la aplicación.
 
+### Listado de Documentos
+En esta captura de pantalla, se muestra el listado de todos los documentos registrados en la base de datos. La lista se presenta con paginación para facilitar la navegación.
 ![Listado documentos](/Imagenes_proyecto/Lista_documentos.png)
-Se listan por paginación todos los documentos registrados en base de datos.
 
+### Registrar Nuevo Documento
+Aquí se puede ver la interfaz para registrar un nuevo documento en la aplicación. Cada documento tiene asignado un código único.
 ![Registrar nuevo doc](/Imagenes_proyecto/Registrar_nuevo_doc.png)
-Se crea un nuevo documento y cada documento tiene un único código.
 
-![Editar documento](/Imagenes_proyecto/editar_documento.png)
-Edita las características del documento y se genera un nuevo código único.
+### Editar Documento
+En esta captura de pantalla se muestra la funcionalidad de edición de un documento. Se pueden modificar las características del documento y se genera un nuevo código único en caso necesario.
+![editar documento](/Imagenes_proyecto/editar_documento.png)
 
+### Búsqueda
+El buscador de la aplicación permite filtrar y encontrar rápidamente los documentos de interés. Esta captura muestra la interfaz de búsqueda.
 ![Busqueda](/Imagenes_proyecto/busqueda.png)
-Buscador permite filtrar mucho más rápido y fácil los documentos de interés.
 
-![Eliminar doc](/Imagenes_proyecto/eliminar_doc.png)
-Elimina de base de datos dicho documento.
+### Eliminar Documento
+La función de eliminar documentos permite eliminar de la base de datos un documento específico. En esta captura se muestra la confirmación de eliminación de un documento.
+![eliminar doc](/Imagenes_proyecto/eliminar_doc.png)
+
+
+Estas capturas de pantalla ofrecen una visión general de las diferentes funcionalidades de la aplicación.
 
 ### Características de interfaz de usuario:
 - Login de usuario.

@@ -19,7 +19,7 @@ Aquí se puede ver la interfaz para registrar un nuevo documento en la aplicaci�
 
 ### Editar Documento
 En esta captura de pantalla se muestra la funcionalidad de edición de un documento. Se pueden modificar las características del documento y se genera un nuevo código único en caso necesario.
-![editar documento](/Imagenes_proyecto/editar_documento.png)
+![editar documento](/Imagenes_proyecto/Editar_documento.png)
 
 ### Búsqueda
 El buscador de la aplicación permite filtrar y encontrar rápidamente los documentos de interés. Esta captura muestra la interfaz de búsqueda.

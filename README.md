@@ -3,6 +3,15 @@
 ## Descripción
 Es una aplicación web construida en Windows que se desarrolló con los frameworks Laravel y Vue.js. En el área de backend se ha utilizado el lenguaje de programación PHP y en el frontend se trabajó con JavaScript. Se desarrolló un CRUD de registro de documentos usando tecnología MVC y servicios web REST. La interfaz de usuario es funcional e interactiva.
 
+## Modelo base de datos
+En esta seccion del modelo UML de la base de datos realacional se crearon las siguientes tablas principales:
+
+    - DOC_DOCUMENTO: DOC_ID, DOC_NOMBRE, DOC_CODIGO, DOC_CONTENIDO, DOC_ID_TIPO, DOC_ID_PROCESO.
+    - TIP_TIPO_DOC: TIP_ID, TIP_PREFIJO, TIP_NOMBRE. 
+    - PRO_PROCESO: PRO_ID, PRO_PREFIJO, PRO_NOMBRE.
+    
+![Modelo Base de datos UML](/Imagenes_proyecto/PruebaTecnica.png)
+
 ## Capturas de Pantalla
 
 ### Inicio de sesión
